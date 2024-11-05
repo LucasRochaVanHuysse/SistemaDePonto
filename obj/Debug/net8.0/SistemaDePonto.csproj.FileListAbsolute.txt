@@ -1,0 +1,66 @@
+/home/lucasgomessilva/Downloads/SistemaDePonto/bin/Debug/net8.0/appsettings.Development.json
+/home/lucasgomessilva/Downloads/SistemaDePonto/bin/Debug/net8.0/appsettings.json
+/home/lucasgomessilva/Downloads/SistemaDePonto/bin/Debug/net8.0/SistemaDePonto
+/home/lucasgomessilva/Downloads/SistemaDePonto/bin/Debug/net8.0/SistemaDePonto.deps.json
+/home/lucasgomessilva/Downloads/SistemaDePonto/bin/Debug/net8.0/SistemaDePonto.runtimeconfig.json
+/home/lucasgomessilva/Downloads/SistemaDePonto/bin/Debug/net8.0/SistemaDePonto.dll
+/home/lucasgomessilva/Downloads/SistemaDePonto/bin/Debug/net8.0/SistemaDePonto.pdb
+/home/lucasgomessilva/Downloads/SistemaDePonto/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/home/lucasgomessilva/Downloads/SistemaDePonto/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/lucasgomessilva/Downloads/SistemaDePonto/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/lucasgomessilva/Downloads/SistemaDePonto/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/lucasgomessilva/Downloads/SistemaDePonto/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/lucasgomessilva/Downloads/SistemaDePonto/obj/Debug/net8.0/SistemaDePonto.csproj.AssemblyReference.cache
+/home/lucasgomessilva/Downloads/SistemaDePonto/obj/Debug/net8.0/SistemaDePonto.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucasgomessilva/Downloads/SistemaDePonto/obj/Debug/net8.0/SistemaDePonto.AssemblyInfoInputs.cache
+/home/lucasgomessilva/Downloads/SistemaDePonto/obj/Debug/net8.0/SistemaDePonto.AssemblyInfo.cs
+/home/lucasgomessilva/Downloads/SistemaDePonto/obj/Debug/net8.0/SistemaDePonto.csproj.CoreCompileInputs.cache
+/home/lucasgomessilva/Downloads/SistemaDePonto/obj/Debug/net8.0/SistemaDePonto.MvcApplicationPartsAssemblyInfo.cs
+/home/lucasgomessilva/Downloads/SistemaDePonto/obj/Debug/net8.0/SistemaDePonto.MvcApplicationPartsAssemblyInfo.cache
+/home/lucasgomessilva/Downloads/SistemaDePonto/obj/Debug/net8.0/staticwebassets.build.json
+/home/lucasgomessilva/Downloads/SistemaDePonto/obj/Debug/net8.0/staticwebassets.development.json
+/home/lucasgomessilva/Downloads/SistemaDePonto/obj/Debug/net8.0/staticwebassets/msbuild.SistemaDePonto.Microsoft.AspNetCore.StaticWebAssets.props
+/home/lucasgomessilva/Downloads/SistemaDePonto/obj/Debug/net8.0/staticwebassets/msbuild.build.SistemaDePonto.props
+/home/lucasgomessilva/Downloads/SistemaDePonto/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.SistemaDePonto.props
+/home/lucasgomessilva/Downloads/SistemaDePonto/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.SistemaDePonto.props
+/home/lucasgomessilva/Downloads/SistemaDePonto/obj/Debug/net8.0/staticwebassets.pack.json
+/home/lucasgomessilva/Downloads/SistemaDePonto/obj/Debug/net8.0/scopedcss/bundle/SistemaDePonto.styles.css
+/home/lucasgomessilva/Downloads/SistemaDePonto/obj/Debug/net8.0/SistemaDePonto.csproj.CopyComplete
+/home/lucasgomessilva/Downloads/SistemaDePonto/obj/Debug/net8.0/SistemaDePonto.dll
+/home/lucasgomessilva/Downloads/SistemaDePonto/obj/Debug/net8.0/refint/SistemaDePonto.dll
+/home/lucasgomessilva/Downloads/SistemaDePonto/obj/Debug/net8.0/SistemaDePonto.pdb
+/home/lucasgomessilva/Downloads/SistemaDePonto/obj/Debug/net8.0/SistemaDePonto.genruntimeconfig.cache
+/home/lucasgomessilva/Downloads/SistemaDePonto/obj/Debug/net8.0/ref/SistemaDePonto.dll
+C:\Users\luqui\OneDrive\Área de Trabalho\SistemaDePonto\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\luqui\OneDrive\Área de Trabalho\SistemaDePonto\bin\Debug\net8.0\appsettings.json
+C:\Users\luqui\OneDrive\Área de Trabalho\SistemaDePonto\bin\Debug\net8.0\SistemaDePonto.exe
+C:\Users\luqui\OneDrive\Área de Trabalho\SistemaDePonto\bin\Debug\net8.0\SistemaDePonto.deps.json
+C:\Users\luqui\OneDrive\Área de Trabalho\SistemaDePonto\bin\Debug\net8.0\SistemaDePonto.runtimeconfig.json
+C:\Users\luqui\OneDrive\Área de Trabalho\SistemaDePonto\bin\Debug\net8.0\SistemaDePonto.dll
+C:\Users\luqui\OneDrive\Área de Trabalho\SistemaDePonto\bin\Debug\net8.0\SistemaDePonto.pdb
+C:\Users\luqui\OneDrive\Área de Trabalho\SistemaDePonto\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\luqui\OneDrive\Área de Trabalho\SistemaDePonto\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\luqui\OneDrive\Área de Trabalho\SistemaDePonto\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\luqui\OneDrive\Área de Trabalho\SistemaDePonto\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\luqui\OneDrive\Área de Trabalho\SistemaDePonto\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\luqui\OneDrive\Área de Trabalho\SistemaDePonto\obj\Debug\net8.0\SistemaDePonto.csproj.AssemblyReference.cache
+C:\Users\luqui\OneDrive\Área de Trabalho\SistemaDePonto\obj\Debug\net8.0\SistemaDePonto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luqui\OneDrive\Área de Trabalho\SistemaDePonto\obj\Debug\net8.0\SistemaDePonto.AssemblyInfoInputs.cache
+C:\Users\luqui\OneDrive\Área de Trabalho\SistemaDePonto\obj\Debug\net8.0\SistemaDePonto.AssemblyInfo.cs
+C:\Users\luqui\OneDrive\Área de Trabalho\SistemaDePonto\obj\Debug\net8.0\SistemaDePonto.csproj.CoreCompileInputs.cache
+C:\Users\luqui\OneDrive\Área de Trabalho\SistemaDePonto\obj\Debug\net8.0\SistemaDePonto.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\luqui\OneDrive\Área de Trabalho\SistemaDePonto\obj\Debug\net8.0\SistemaDePonto.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\luqui\OneDrive\Área de Trabalho\SistemaDePonto\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\luqui\OneDrive\Área de Trabalho\SistemaDePonto\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\luqui\OneDrive\Área de Trabalho\SistemaDePonto\obj\Debug\net8.0\staticwebassets\msbuild.SistemaDePonto.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\luqui\OneDrive\Área de Trabalho\SistemaDePonto\obj\Debug\net8.0\staticwebassets\msbuild.build.SistemaDePonto.props
+C:\Users\luqui\OneDrive\Área de Trabalho\SistemaDePonto\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SistemaDePonto.props
+C:\Users\luqui\OneDrive\Área de Trabalho\SistemaDePonto\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SistemaDePonto.props
+C:\Users\luqui\OneDrive\Área de Trabalho\SistemaDePonto\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\luqui\OneDrive\Área de Trabalho\SistemaDePonto\obj\Debug\net8.0\scopedcss\bundle\SistemaDePonto.styles.css
+C:\Users\luqui\OneDrive\Área de Trabalho\SistemaDePonto\obj\Debug\net8.0\SistemaD.A0B6E1D0.Up2Date
+C:\Users\luqui\OneDrive\Área de Trabalho\SistemaDePonto\obj\Debug\net8.0\SistemaDePonto.dll
+C:\Users\luqui\OneDrive\Área de Trabalho\SistemaDePonto\obj\Debug\net8.0\refint\SistemaDePonto.dll
+C:\Users\luqui\OneDrive\Área de Trabalho\SistemaDePonto\obj\Debug\net8.0\SistemaDePonto.pdb
+C:\Users\luqui\OneDrive\Área de Trabalho\SistemaDePonto\obj\Debug\net8.0\SistemaDePonto.genruntimeconfig.cache
+C:\Users\luqui\OneDrive\Área de Trabalho\SistemaDePonto\obj\Debug\net8.0\ref\SistemaDePonto.dll
